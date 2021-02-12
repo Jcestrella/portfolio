@@ -11,7 +11,7 @@ function HomePage() {
                     <span> Juan Carlos.</span>
                 </h1>
                 <p className="h-sub-text">
-                    Occaecat consequat anim nisi eiusmod eiusmod laborum sunt. Consectetur consequat voluptate consequat officia commodo. Nulla ut nostrud eiusmod cupidatat amet exercitation cillum culpa reprehenderit consectetur. Veniam anim culpa ipsum sit eu in aliquip incididunt sunt.
+                    Pasante de Ingeniería en Sistemas Computacionales en proceso de titulación, especializado en el desarrollo de tecnologías móviles, principalmente Android, fanático del desarrollo de videojuegos y del desarrollo web BackEnd
                 </p>
                 <div className="icons">
                     <a target="_blank" rel="noreferrer" href="//facebook.com/Jcestrella49" className="icon-holder" >

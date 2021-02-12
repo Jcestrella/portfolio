@@ -1,7 +1,7 @@
 import proj1 from '../img/portImages/preguntaguaGame.png';
 import proj2 from '../img/portImages/preguntaguaPanel.jpg';
 import proj3 from '../img/portImages/portafolioWeb.jpg';
-import proj4 from '../img/portImages/maya-1.jpg';
+import proj4 from '../img/portImages/reactApp.png';
 import proj5 from '../img/portImages/maya-1.jpg';
 import proj6 from '../img/portImages/maya-1.jpg';
 import proj7 from '../img/portImages/maya-1.jpg';
@@ -31,45 +31,18 @@ const projects = [
         link1: '/',
         link2: '//github.com/Jcestrella/',
         image: proj3,
-        title: 'Autodesk Maya',
-        description: 'PlaceHolder Description'
+        title: 'Portafolio',
+        description: 'Portafolio personal hecho en react'
     },
     {
         id: 4,
-        category: 'Animation',
-        link1: 'www.github.com',
-        link2: 'www.github.com',
+        category: 'React',
+        link1: '//memoriesapp-web.netlify.app/',
+        link2: '//github.com/Jcestrella/memoriesApp',
         image: proj4,
-        title: 'Autodesk Maya',
-        description: 'PlaceHolder Description'
+        title: 'Memories App',
+        description: 'Aplicación de memorias, MERN'
     },
-    {
-        id: 5,
-        category: 'Animation',
-        link1: 'www.github.com',
-        link2: 'www.github.com',
-        image: proj5,
-        title: 'Autodesk Maya',
-        description: 'PlaceHolder Description'
-    },
-    {
-        id: 6,
-        category: 'Animation',
-        link1: 'www.github.com',
-        link2: 'www.github.com',
-        image: proj6,
-        title: 'Autodesk Maya',
-        description: 'PlaceHolder Description'
-    },
-    {
-        id: 7,
-        category: 'Animation',
-        link1: 'www.github.com',
-        link2: 'www.github.com',
-        image: proj7,
-        title: 'Autodesk Maya',
-        description: 'PlaceHolder Description'
-    }
 ];
 
 export default projects;

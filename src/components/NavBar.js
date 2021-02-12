@@ -17,22 +17,17 @@ function Navbar() {
                     </li>
                     <li className="nav-item">
                         <NavLink to="/about" exact>
-                            About
+                            Acerca De
                         </NavLink>
                     </li>
                     <li className="nav-item">
                         <NavLink to="/projects" exact>
-                            Projects
-                        </NavLink>
-                    </li>
-                    <li className="nav-item">
-                        <NavLink to="/blogs" exact>
-                            Blogs
+                            Proyectos
                         </NavLink>
                     </li>
                     <li className="nav-item">
                         <NavLink to="/contact" exact>
-                            Contact
+                            Contacto
                         </NavLink>
                     </li>
                 </ul>

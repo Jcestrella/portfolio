@@ -28,7 +28,7 @@ function ProjectsPage() {
     return (
         <div className="ProjectsPage">
             <div className="title">
-                <Title title={'Projects'} span={'Projects'} />
+                <Title title={'Proyectos'} span={'Proyectos'} />
             </div>
             <div className="projects">
                 <Categories filter={filter} categories={categories} />

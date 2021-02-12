@@ -10,9 +10,9 @@ function ImageSection() {
             <div className="about-info">
                 <h4>Soy<span> Juan Carlos</span></h4>
                 <p className="about-text">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                    Voluptatum necessitatibus perferendis numquam dolorem cumque facilis.
-                    Desir per po la ta doso vi slone ve?
+                    Desarrollador Jr BackEnd con NodeJs, he realizado proyectos con el stack MERN. Mi último proyecto fue un videojuego educativo para el Centro de Investigación Científica de Yucatán.
+                    Tengo amplios conocimientos de Java orientado a apps móviles, conocimientos amplios en bases de datos SQL y NoSQL.
+                    Se trabajar en equipo y estoy dispuesto a seguir aprendiendo.
                 </p>
                 <div className="about-details">
                     <div className="left-section">
